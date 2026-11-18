@@ -1,7 +1,23 @@
 body {
   font-family: sans-serif;
-  color: #666;
-  background-color: #f1f1f1;
+  color: #ffffff;
+  background-color: #359427;
   font-size: x-large;
   margin: 1em;
+}
+
+nav ul li{
+  padding: 1%;
+  display:inline-block;
+  margin:0;
+}
+
+nav ul{
+  padding:0;
+}
+
+nav{
+  background-color:#93ffa3;
+  margin:0;
+  padding: 0;
 }
